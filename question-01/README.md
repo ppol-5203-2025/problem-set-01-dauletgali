@@ -23,6 +23,10 @@ Figures are numbered according its appearance in the paper with additional figur
 Two datasets 
 a) raw_data_survey_qualtricks.csv contains raw data collected from survey.
 b) processed_data_by_x.json file contains output of the data preprocessing. Output of the code 01_data_pre_processing.py
+In order to generate processed data run the following command 
+```bash
+python 01_data_pre_processing.py
+```
 
 
 
